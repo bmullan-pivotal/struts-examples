@@ -7,7 +7,7 @@
         <artifactId>struts-examples</artifactId>
         <groupId>org.apache.struts</groupId>
         <version>1.1.0</version>
-        <relativePath>../pom.xml</relativePath>
+        <relativePath>./parent/pom.xml</relativePath>
     </parent>
 
     <artifactId>file-upload</artifactId>
